@@ -5,6 +5,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Saudacoes
-        run: echo "Ola""
+        run: echo "Ola"
       - name: Terminou
         run: echo "Acabou"
